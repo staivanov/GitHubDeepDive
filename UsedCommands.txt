@@ -7,5 +7,6 @@ git log
 git branch
 
 git branch branchTwo
-git checkout branchTwo
+git checkout branchTwo // git switch branchTwo
 
+cat .git/head
