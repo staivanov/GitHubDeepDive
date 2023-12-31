@@ -1,0 +1,11 @@
+git status
+git add .
+git commit -m "...."
+git push origin master
+
+git log
+git branch
+
+git branch branchTwo
+git checkout branchTwo
+
