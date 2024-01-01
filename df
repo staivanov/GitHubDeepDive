@@ -1,0 +1,48 @@
+[33mcommit 5ff7db275b3d9a149b4a1de436730732694b63e6[m[33m ([m[1;36mHEAD -> [m[1;32mbranchTwo[m[33m, [m[1;31morigin/branchTwo[m[33m)[m
+Merge: f07fe73 a022aa8
+Author: Stanislav Ivanov <40460292+staivanov@users.noreply.github.com>
+Date:   Mon Jan 1 23:21:47 2024 +0200
+
+    Merge branch 'master' into branchTwo
+
+[33mcommit a022aa83e4f5c9e922dc875d45347bbfb5e11307[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Stanislav Ivanov <40460292+staivanov@users.noreply.github.com>
+Date:   Sun Dec 31 23:34:58 2023 +0200
+
+    New salad was added.
+
+[33mcommit f07fe732a162882b6b3fcc8eb6b40e728688c401[m
+Author: Stanislav Ivanov <40460292+staivanov@users.noreply.github.com>
+Date:   Sun Dec 31 23:31:56 2023 +0200
+
+    UserCommands.txt was updated.
+
+[33mcommit dc6f8c4fd12450fa6b188095c1cc90a66c0276d2[m
+Author: Stanislav Ivanov <40460292+staivanov@users.noreply.github.com>
+Date:   Sun Dec 31 23:29:25 2023 +0200
+
+    UserCommands.txt was updated.
+
+[33mcommit 92ef9c66d5893c0cdf38e6f9f8560b99d73bbba3[m
+Author: Stanislav Ivanov <40460292+staivanov@users.noreply.github.com>
+Date:   Sun Dec 31 23:20:54 2023 +0200
+
+    Wine was added in drinks.txt
+
+[33mcommit 834369ae87ef02b69e3ac4e784c8493cba3850b0[m
+Author: Stanislav Ivanov <40460292+staivanov@users.noreply.github.com>
+Date:   Thu Dec 28 23:20:26 2023 +0200
+
+    Salads.txt was added.
+
+[33mcommit 26e7b749fc115efbeb63c474bb2bf28ba569ae82[m
+Author: Stanislav Ivanov <40460292+staivanov@users.noreply.github.com>
+Date:   Wed Dec 27 22:57:26 2023 +0200
+
+    Data seed for menu.txt and drinks.txt
+
+[33mcommit 42a61fd36d61b4f91d184fd1c5de54d14c23429b[m
+Author: Stanislav Ivanov <40460292+staivanov@users.noreply.github.com>
+Date:   Tue Dec 26 23:43:21 2023 +0200
+
+    Added two files - drinks and menu .txt
