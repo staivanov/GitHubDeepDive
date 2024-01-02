@@ -8,5 +8,10 @@ git branch
 
 git branch branchTwo
 git checkout branchTwo or git switch branchTwo (more specific)
+git clone https://github.com/staivanov/GitHubDeepDive
+git branch --all
+git show-ref master
 
 cat .git/head
+ls
+cls
