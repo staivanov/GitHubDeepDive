@@ -17,3 +17,4 @@ ls
 cls
 
 gir rm <file>
+git mv old_filename new_filename
