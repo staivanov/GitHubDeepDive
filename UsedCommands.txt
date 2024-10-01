@@ -15,3 +15,5 @@ git show-ref master
 cat .git/head
 ls
 cls
+
+gir rm <file>
